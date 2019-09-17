@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto+Slab:400,700&display=swap');
+
+body {
+    background-color: lightgrey;
+    color: green;
+    font-size: 0.75rem;
+    font-weight: normal;
+    font-style: normal;
+    font-family: serif;
+    line-height: 1.5;
+    /* text-align: center; */
+    background-image: url("/img/back.jpg"); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    /* background: linear-gradient(90deg, rgba(33,36,0,1) 50%, rgba(241,255,0,1) 100%); */
+}
+.heading{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    line-height: 1.2;
+    font-size: 3rem;
+}
+.para{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+.subheadings{
+    color: pink;
+    font-size: 2.5rem;
+    
+}
+.link{
+    font-size: 2rem;
+}
+
+/* background img */
+/* img{ 
+    width: 10em;
+} */
+
+
+
+
+
+/*
+-add acustom google font to your web page.
+-ensure all the fonts have at least one web-safe backup +a category backup
+-add background images to something 
+- add gradients to something(cssgradients.io)
+
+
+next
+-em vs rem
+-letter-spacing, word-spacing, text-shadow, box-shadow, 
+-text-transform, text-decoration
+*/
